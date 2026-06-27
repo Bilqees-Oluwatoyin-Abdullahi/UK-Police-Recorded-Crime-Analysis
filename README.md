@@ -66,19 +66,20 @@ Perform statistical analysis (mean, median, standard deviation, correlation) by 
 ## 📉 Charts Preview
  
 ### Total Recorded Crime Over Time
-![National Trend]()
+![](Total recorded crime over time.png)
  
 ### Trends by Offence Group
-![Group Trends]()
+![](Trend by offence group.png)
  
 ### COVID-19 Impact
-![COVID Impact]()
+![](COVID 19 impact.png)
  
 ### Seasonal Pattern by Quarter
-![Seasonal]()
+![](Total Recorded Crime by Quarter.png)
+![](Average Quarterly Crime by Offence Group.png)
  
 ### Top 10 Police Forces
-![Top Forces]()
+![](Top Ten Police Forces by Percentage Recorded Crime.png)
  
 ---
  
