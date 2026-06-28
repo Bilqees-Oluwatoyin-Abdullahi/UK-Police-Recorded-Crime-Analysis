@@ -43,47 +43,64 @@ Perform statistical analysis (mean, median, standard deviation, correlation) by 
  
 ### 📈 National Trends
 - Total recorded crime rose **65.8%** from 4.1 million (2012/13) to 6.7 million (2022/23)
-- **Violence against the person** recorded the largest absolute increase (+251%), partly driven by improved recording practices from 2014/15
-- **Fraud offences** showed the steepest proportional growth at **+126%** over the period
+- The upward trend was briefly interrupted in 2020/21 due to the COVID-19 pandemic, before recovering strongly in 2021/22 and continuing to rise through 2022/23.
+
+### Total Recorded Crime Over Time
+![](https://github.com/Bilqees-Oluwatoyin-Abdullahi/UK-Police-Recorded-Crime-Analysis/blob/main/Total%20recorded%20crime%20over%20time.png)
+ 
+
 ### 🦠 COVID-19 Impact
 - Total crime fell **10.6%** in 2020/21 (from 6.08M to 5.43M offences) due to lockdown restrictions
-- **Theft offences** were the most affected category, dropping sharply as shops closed and movement was restricted
 - Crime rebounded strongly in 2021/22 (+16.7%) and continued rising through 2022/23
+
+### COVID-19 Impact
+![](https://github.com/Bilqees-Oluwatoyin-Abdullahi/UK-Police-Recorded-Crime-Analysis/blob/main/COVID%2019%20impact.png)
+
+
 ### 🗓️ Seasonal Patterns
-- **Q1 (April–June)** is consistently the highest-crime quarter across all years
-- **Q4 (January–March)** is consistently the lowest
-- This pattern holds across most offence types, likely driven by warmer weather and increased outdoor activity in Q1
+- **Q1 (January–March) is the highest-crime quarter across virtually all years, with a total of 16,003,855 offences recorded across the full dataset.
+- **Q4 (October–December) is consistently the lowest, with 14,231,724 total offences.
+
+### Seasonal Pattern by Quarter
+![](https://github.com/Bilqees-Oluwatoyin-Abdullahi/UK-Police-Recorded-Crime-Analysis/blob/main/Total%20Recorded%20Crime%20by%20Quarter.png)
+
+### Average Quarterly Crime by Offence Group
+- **Fraud offences** record the highest average quarterly volume by a significant margin, peaking in Q4 at ~21,000 offences per quarter — driven largely by national reporting bodies (Action Fraud, CIFAS) rather than territorial forces
+- Seasonal variation between quarters is **minimal at the offence group level**, with all four quarters following near-identical trends across categories
+- The Q1 national dominance observed in total crime figures is driven by **aggregate volume effects** rather than strong within-group seasonal patterns
+
+![](https://github.com/Bilqees-Oluwatoyin-Abdullahi/UK-Police-Recorded-Crime-Analysis/blob/main/Average%20Quarterly%20Crime%20by%20Offence%20Group.png)
+
+
 ### 🗺️ Geographic Distribution
-- The **Metropolitan Police** recorded 8,963,486 offences — **17.47%** of all territorial crime
+- The **Metropolitan Police** recorded the highest percentage across the period, with 33.35% of total recorded territorial crimes.
 - The Met's national share has **declined over time** as regional forces record faster growth
-- **Greater Manchester, West Midlands** and **West Yorkshire** form the next tier of high-volume forces
+- **West Midlands** and **West Yorkshire** form the next tier of high-volume forces each recording between 11.6% and 10.1% of total recorded territorial.
+
+### Top 10 Police Forces
+![](https://github.com/Bilqees-Oluwatoyin-Abdullahi/UK-Police-Recorded-Crime-Analysis/blob/main/Top%20Ten%20Police%20Forces%20by%20Percentage%20Recorded%20Crime.png)
+
+
+### Offence Trends
+- **Miscellaneous crimes against society** and **Violence against the person** both surpassed 2.1 million offences by 2022/23, overtaking Theft as the highest-volume groups
+- **Theft offences** declined from being the highest group in 2012/13 (1.9M) and never fully recovered to pre-COVID levels after the 2020/21 lockdown dip
+- **Fraud offences** grew consistently throughout the period (+126%), with COVID-19 having minimal impact — suggesting a shift to online fraud during lockdown
+- **Public order offences** nearly doubled across the period, rising from ~150,000 to ~600,000 by 2022/23
+- The sharp drop in 2023/24 across all groups reflects **incomplete data (Q1 only)** and does not represent a genuine downward trend
+
+### Trends by Offence Group
+![](https://github.com/Bilqees-Oluwatoyin-Abdullahi/UK-Police-Recorded-Crime-Analysis/blob/main/Trend%20by%20offence%20group.png) 
+
+
 ### 📐 Statistical Highlights
 - Large gaps between mean and median values across all groups reflect significant **right-skew**, driven by high-volume forces
 - **Fraud offences** have the highest standard deviation (19,176.6), reflecting concentration in national fraud reporting bodies
 - **Violence and Sexual offences** show strong positive correlation, rising in tandem across the period
----
- 
-## 📉 Charts Preview
- 
-### Total Recorded Crime Over Time
-![](https://github.com/Bilqees-Oluwatoyin-Abdullahi/UK-Police-Recorded-Crime-Analysis/blob/main/Total%20recorded%20crime%20over%20time.png)
- 
-### Trends by Offence Group
-![](https://github.com/Bilqees-Oluwatoyin-Abdullahi/UK-Police-Recorded-Crime-Analysis/blob/main/Trend%20by%20offence%20group.png)
- 
-### COVID-19 Impact
-![](https://github.com/Bilqees-Oluwatoyin-Abdullahi/UK-Police-Recorded-Crime-Analysis/blob/main/COVID%2019%20impact.png)
- 
-### Seasonal Pattern by Quarter
-![](https://github.com/Bilqees-Oluwatoyin-Abdullahi/UK-Police-Recorded-Crime-Analysis/blob/main/Average%20Quarterly%20Crime%20by%20Offence%20Group.png)
 
-![](https://github.com/Bilqees-Oluwatoyin-Abdullahi/UK-Police-Recorded-Crime-Analysis/blob/main/Total%20Recorded%20Crime%20by%20Quarter.png)
- 
-### Top 10 Police Forces
-![](https://github.com/Bilqees-Oluwatoyin-Abdullahi/UK-Police-Recorded-Crime-Analysis/blob/main/Top%20Ten%20Police%20Forces%20by%20Percentage%20Recorded%20Crime.png)
- 
+
 ---
- 
+
+
 ## ⚠️ Data Quality Notes
  
 | Issue | Action Taken |
