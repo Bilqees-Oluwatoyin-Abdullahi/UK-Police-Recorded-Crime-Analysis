@@ -25,7 +25,7 @@ Perform statistical analysis (mean, median, standard deviation, correlation) by 
 | **Records** | 258,906 rows |
 | **Forces** | 44 territorial police forces |
 | **Columns** | 9 (Financial Year, Quarter, Force, Offence Group, Subgroup, Description, Code, Count, Force Type) |
-| **Licence** | Open Government Licence v3.0 |
+
  
 ---
  
@@ -36,8 +36,6 @@ Perform statistical analysis (mean, median, standard deviation, correlation) by 
 | **Power Query** | Data import, cleaning, merging of 12 year-sheets, type conversion, trimming |
 | **PivotTables** | Aggregation by year, force, offence group, and quarter |
 | **Excel Charts** | Line, bar, stacked bar, and clustered bar visualisations |
-| **Excel Formulas** | AVERAGEIF, COUNTIF, SUMIF, MINIFS, MAXIFS, STDEV, CORREL, IF, RANK |
-| **Conditional Formatting** | Highlighting trends and outliers in summary tables |
 
 ## 📊 Key Findings
  
