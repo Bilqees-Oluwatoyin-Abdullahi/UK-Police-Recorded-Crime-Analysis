@@ -76,6 +76,7 @@ Perform statistical analysis (mean, median, standard deviation, correlation) by 
  
 ### Seasonal Pattern by Quarter
 ![](https://github.com/Bilqees-Oluwatoyin-Abdullahi/UK-Police-Recorded-Crime-Analysis/blob/main/Average%20Quarterly%20Crime%20by%20Offence%20Group.png)
+
 ![](https://github.com/Bilqees-Oluwatoyin-Abdullahi/UK-Police-Recorded-Crime-Analysis/blob/main/Total%20Recorded%20Crime%20by%20Quarter.png)
  
 ### Top 10 Police Forces
