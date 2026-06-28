@@ -122,8 +122,7 @@ The Merged data, analysis and dashboard ([Police_Recorded_Crime_Merged_Records.x
 
 ## 📝 Report
  
-The full written report ([Police_Crime_Analysis_Report.docx](https://github.com/Bilqees-Oluwatoyin-Abdullahi/UK-Police-Recorded-Crime-Analysis/blob/ee97880ff247c1e936e70a4c11c8f87d1df23233/Police_Crime_Analysis_Report.docx))
-covers:
+The full written report ([Police_Crime_Analysis_Report.docx](https://github.com/Bilqees-Oluwatoyin-Abdullahi/UK-Police-Recorded-Crime-Analysis/blob/0c2f32cf3c78064e3d6eddfe2ba49f4704ca0435/Police_Crime_Analysis_Report.docx)) covers:
  
 1. Executive Summary
 2. Dataset Overview
