@@ -98,13 +98,14 @@ Perform statistical analysis (mean, median, standard deviation, correlation) by 
  
 ---
  
-## 📝 Worrkbook
+## 📝 Workbook
 
-The Merged data, analysis and dashboard (`Police_Recorded_Crime_Merged_Records.xlsx`)
+The Merged data, analysis and dashboard (`[Police_Recorded_Crime_Merged_Records.xlsx](https://github.com/Bilqees-Oluwatoyin-Abdullahi/UK-Police-Recorded-Crime-Analysis/blob/ee97880ff247c1e936e70a4c11c8f87d1df23233/Police_Recorded_Crime_Merged_Records.xlsx)`)
 
 ## 📝 Report
  
-The full written report (`Police_Crime_Analysis_Report.docx`) covers:
+The full written report (`https://github.com/Bilqees-Oluwatoyin-Abdullahi/UK-Police-Recorded-Crime-Analysis/blob/ee97880ff247c1e936e70a4c11c8f87d1df23233/Police_Crime_Analysis_Report.docx`) 
+covers:
  
 1. Executive Summary
 2. Dataset Overview
