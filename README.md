@@ -66,20 +66,20 @@ Perform statistical analysis (mean, median, standard deviation, correlation) by 
 ## 📉 Charts Preview
  
 ### Total Recorded Crime Over Time
-![](Bilqees-Oluwatoyin-Abdullahi/UK-Police-Recorded-Crime-Analysis/blob/main/Total%20recorded%20crime%20over%20time.png)
+![](https://github.com/Bilqees-Oluwatoyin-Abdullahi/UK-Police-Recorded-Crime-Analysis/blob/main/Total%20recorded%20crime%20over%20time.png)
  
 ### Trends by Offence Group
-![]{Bilqees-Oluwatoyin-Abdullahi/UK-Police-Recorded-Crime-Analysis/blob/main/Trend%20by%20offence%20group.png)
+![](https://github.com/Bilqees-Oluwatoyin-Abdullahi/UK-Police-Recorded-Crime-Analysis/blob/main/Trend%20by%20offence%20group.png)
  
 ### COVID-19 Impact
-![](Bilqees-Oluwatoyin-Abdullahi/UK-Police-Recorded-Crime-Analysis/blob/main/COVID%2019%20impact.png
+![](https://github.com/Bilqees-Oluwatoyin-Abdullahi/UK-Police-Recorded-Crime-Analysis/blob/main/COVID%2019%20impact.png)
  
 ### Seasonal Pattern by Quarter
-![]Bilqees-Oluwatoyin-Abdullahi/UK-Police-Recorded-Crime-Analysis/blob/main/Average%20Quarterly%20Crime%20by%20Offence%20Group.png)
-![](Bilqees-Oluwatoyin-Abdullahi/UK-Police-Recorded-Crime-Analysis/blob/main/Total%20Recorded%20Crime%20by%20Quarter.png)
+![](https://github.com/Bilqees-Oluwatoyin-Abdullahi/UK-Police-Recorded-Crime-Analysis/blob/main/Average%20Quarterly%20Crime%20by%20Offence%20Group.png)
+![](https://github.com/Bilqees-Oluwatoyin-Abdullahi/UK-Police-Recorded-Crime-Analysis/blob/main/Total%20Recorded%20Crime%20by%20Quarter.png)
  
 ### Top 10 Police Forces
-![](Bilqees-Oluwatoyin-Abdullahi/UK-Police-Recorded-Crime-Analysis/blob/main/Top%20Ten%20Police%20Forces%20by%20Percentage%20Recorded%20Crime.png)
+![](https://github.com/Bilqees-Oluwatoyin-Abdullahi/UK-Police-Recorded-Crime-Analysis/blob/main/Top%20Ten%20Police%20Forces%20by%20Percentage%20Recorded%20Crime.png)
  
 ---
  
